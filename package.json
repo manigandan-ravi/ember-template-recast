@@ -15,10 +15,10 @@
   "repository": "github:ember-template-lint/ember-template-recast",
   "license": "MIT",
   "author": "Robert Jackson <me@rwjblue.com>",
-  "main": "lib/index.js",
-  "bin": "lib/bin.js",
+  "main": "/lib/index.js",
+  "bin": "/lib/bin.js",
   "files": [
-    "lib/",
+    "/lib/",
     "!lib/**/*.test.*"
   ],
   "scripts": {
